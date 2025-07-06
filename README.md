@@ -1,0 +1,2 @@
+# pyhthon_project_mini
+password_strength_checker 
