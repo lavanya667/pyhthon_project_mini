@@ -1,2 +1,2 @@
-# pyhthon_project_mini
+# pyhthon_project
 password_strength_checker 
